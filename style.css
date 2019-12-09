@@ -57,7 +57,7 @@ nav ul li a:hover {
 /**/
 
 #showcase {
-	background-image: url('./images/green.jpg');
+	background-image: url('./green.jpg');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-position: center;
@@ -89,7 +89,7 @@ nav ul li a:hover {
 	padding: 10px;
 	box-sizing: border-box;
 	min-height: 750px;
-	background-image: url(./images/matrix.jpg);
+	background-image: url(./matrix.jpg);
 	animation: matrix linear 500s infinite;
 }
 
